@@ -1,0 +1,11 @@
+.nav-fontss{
+
+    color: white;
+}
+.header-top{
+    color: white;
+}
+.nav-btn{
+    display: flex;
+    gap: 6px;
+}
